@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ce490e-67f4-49a7-a2fb-d8b4e1f32b36" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Lista2$MainClass.ic" NAME="MainClass Coverage Results" MODIFIED="1541854788958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1122517492">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/BazaDanych" value="1" />
+          <entry key="JAVA/SellersWindow" value="1" />
+          <entry key="JAVA/WindowApperance" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="97" />
+          <entry key="png" value="2" />
+          <entry key="uml" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="2" />
+          <entry key="JAVA" value="97" />
+          <entry key="UML" value="4" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="89" />
+          <entry key="java" value="5735" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5735" />
+          <entry key="PLAIN_TEXT" value="89" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BazaDanych.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ProductsDataChecking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestMe with JUnit4 &amp; Mockito" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/SprzedawcaWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WystawFaktureWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SubmitAnInvoice_Window.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SubmitAnInvoiceWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/KontrahenciWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WindowApperance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SprzedawcyGoodData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SellersWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProduktyWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProduktyDataChecking.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProductsWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SellersGoodData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/KontrahenciGoodData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProduktyGoodData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProductsGoodData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProductsDataChecking.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ContractorsGoodData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ContractorsWindow.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProductsGoodDataTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProductsDataCheckingTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WindowApperanceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DataChecking.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DataCheckingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IssueAnInvoiceWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BazaDanych.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BazaDanychTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Faktura" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="492" />
+    <option name="y" value="175" />
+    <option name="width" value="1280" />
+    <option name="height" value="791" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lista2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lista2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lista2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lista2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lista2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lista2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lista2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lista2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lista2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lista2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lista2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lista2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/patrycja/Pulpit/Lista2/src/main/java/ProduktyGoodData.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541873649141" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/UML" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/UML" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainClass">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="Faktura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataCheckingTest.testIsEmptyFiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Faktura" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DataCheckingTest" />
+      <option name="METHOD_NAME" value="testIsEmptyFiles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsDataCheckingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Faktura" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductsDataCheckingTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsDataCheckingTest.testIsCheckCena" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Faktura" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductsDataCheckingTest" />
+      <option name="METHOD_NAME" value="testIsCheckCena" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductsDataCheckingTest.testIsEmptyFiles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Faktura" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProductsDataCheckingTest" />
+      <option name="METHOD_NAME" value="testIsEmptyFiles" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainClass" />
+      <item itemvalue="JUnit.ProductsDataCheckingTest.testIsCheckCena" />
+      <item itemvalue="JUnit.ProductsDataCheckingTest.testIsEmptyFiles" />
+      <item itemvalue="JUnit.ProductsDataCheckingTest" />
+      <item itemvalue="JUnit.DataCheckingTest.testIsEmptyFiles" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="JUnit.DataCheckingTest.testIsEmptyFiles" />
+        <item itemvalue="JUnit.ProductsDataCheckingTest" />
+        <item itemvalue="JUnit.ProductsDataCheckingTest.testIsCheckCena" />
+        <item itemvalue="JUnit.ProductsDataCheckingTest.testIsEmptyFiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ce490e-67f4-49a7-a2fb-d8b4e1f32b36" name="Default Changelist" comment="" />
+      <created>1541626758759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541626758759</updated>
+      <workItem from="1541862739595" duration="3443000" />
+      <workItem from="1541866304603" duration="7343000" />
+      <workItem from="1541873700591" duration="803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ProductsDataCheckingTest_testIsCheckCena - 2018.11.10 at 17h 20m 05s.xml">
+      <configuration name="ProductsDataCheckingTest.testIsCheckCena" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsDataCheckingTest_testIsCheckCena - 2018.11.10 at 17h 22m 25s.xml">
+      <configuration name="ProductsDataCheckingTest.testIsCheckCena" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsDataCheckingTest_testIsCheckCena - 2018.11.10 at 17h 22m 45s.xml">
+      <configuration name="ProductsDataCheckingTest.testIsCheckCena" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsDataCheckingTest_testIsCheckCena - 2018.11.10 at 17h 23m 47s.xml">
+      <configuration name="ProductsDataCheckingTest.testIsCheckCena" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductsDataCheckingTest - 2018.11.10 at 17h 24m 13s.xml">
+      <configuration name="ProductsDataCheckingTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCheckingTest_testIsEmptyFiles - 2018.11.10 at 17h 26m 01s.xml">
+      <configuration name="DataCheckingTest.testIsEmptyFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCheckingTest_testIsEmptyFiles - 2018.11.10 at 17h 29m 51s.xml">
+      <configuration name="DataCheckingTest.testIsEmptyFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCheckingTest_testIsEmptyFiles - 2018.11.10 at 17h 31m 52s.xml">
+      <configuration name="DataCheckingTest.testIsEmptyFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCheckingTest_testIsEmptyFiles - 2018.11.10 at 17h 32m 22s.xml">
+      <configuration name="DataCheckingTest.testIsEmptyFiles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataCheckingTest_testIsEmptyFiles - 2018.11.10 at 18h 17m 09s.xml">
+      <configuration name="DataCheckingTest.testIsEmptyFiles" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11589000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="83" y="34" width="1837" height="1046" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2368272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32974505" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32942554" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3845252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.32979977" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Analysis" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32979977" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.1887456" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.6764361" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.024816696" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49814814" weight="0.029461756" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50185186" side_tool="true" weight="0.02874859" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23229462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32974505" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32942554" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32942554" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3845252" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" weight="0.32979977" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Analysis" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32979977" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.1887456" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="PlantUML" order="7" weight="0.024816696" />
+      <window_info anchor="right" id="Maven Projects" order="8" sideWeight="0.49814814" visible="true" weight="0.029461756" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50185186" side_tool="true" weight="0.02874859" />
+      <window_info anchor="right" id="Database" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SellersWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="84" column="26" lean-forward="true" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ContractorsWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="94" column="1" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ContractorsGoodData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductsWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2328">
+          <caret line="100" column="131" selection-start-line="100" selection-start-column="131" selection-end-line="100" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WindowApperance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="93" column="40" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10797">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SellersGoodData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="4" column="26" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IssueAnInvoiceWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="44" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/WindowApperance">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>WindowApperance</OriginalElement>
+          <nodes>
+            <node x="169.8524999999999" y="400.0">java.awt.Frame</node>
+            <node x="1385.68" y="500.0">java.awt.event.ActionListener</node>
+            <node x="307.67999999999995" y="300.0">java.awt.Window</node>
+            <node x="0.0" y="0.0">java.awt.MenuContainer</node>
+            <node x="584.1800000000001" y="400.0">javax.swing.RootPaneContainer</node>
+            <node x="1093.18" y="400.0">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="446.93000000000006" y="200.0">javax.accessibility.Accessible</node>
+            <node x="255.42999999999995" y="100.0">java.awt.Component</node>
+            <node x="228.0" y="0.0">java.awt.image.ImageObserver</node>
+            <node x="458.99999999999994" y="0.0">java.io.Serializable</node>
+            <node x="1388.18" y="400.0">java.util.EventListener</node>
+            <node x="262.92999999999995" y="200.0">java.awt.Container</node>
+            <node x="621.75" y="500.0">javax.swing.JFrame</node>
+            <node x="845.1800000000001" y="400.0">javax.swing.WindowConstants</node>
+            <node x="965.7499999999999" y="600.0">WindowApperance</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.awt.Window" target="javax.accessibility.Accessible">
+              <point x="37.25" y="-25.0" />
+              <point x="419.42999999999995" y="275.0" />
+              <point x="489.18000000000006" y="275.0" />
+              <point x="-42.25" y="25.0" />
+            </edge>
+            <edge source="WindowApperance" target="javax.swing.JFrame">
+              <point x="-58.999999999999886" y="-25.0" />
+              <point x="1024.75" y="575.0" />
+              <point x="693.25" y="575.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window" target="java.awt.Container">
+              <point x="-37.25" y="-25.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.MenuContainer">
+              <point x="-59.66666666666666" y="-25.0" />
+              <point x="285.2633333333333" y="75.0" />
+              <point x="156.0" y="75.0" />
+              <point x="52.0" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="java.awt.Frame">
+              <point x="-57.200000000000045" y="-25.0" />
+              <point x="636.05" y="480.0" />
+              <point x="238.8524999999999" y="480.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.swing.WindowConstants">
+              <point x="28.600000000000023" y="-25.0" />
+              <point x="721.8499999999999" y="470.0" />
+              <point x="959.1800000000001" y="470.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+              <point x="0.0" y="-25.0" />
+              <point x="344.92999999999995" y="75.0" />
+              <point x="333.5" y="75.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.io.Serializable">
+              <point x="59.666666666666686" y="-25.0" />
+              <point x="404.59666666666664" y="75.0" />
+              <point x="547.5" y="75.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="WindowApperance" target="java.awt.event.ActionListener">
+              <point x="59.000000000000114" y="-25.0" />
+              <point x="1142.75" y="575.0" />
+              <point x="1485.68" y="575.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.Window">
+              <point x="34.5" y="-25.0" />
+              <point x="273.3524999999999" y="375.0" />
+              <point x="382.17999999999995" y="375.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.swing.RootPaneContainer">
+              <point x="0.0" y="-25.0" />
+              <point x="693.25" y="480.0" />
+              <point x="704.6800000000001" y="480.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.event.ActionListener" target="java.util.EventListener">
+              <point x="0.0" y="-25.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.MenuContainer">
+              <point x="-34.5" y="-25.0" />
+              <point x="204.3524999999999" y="375.0" />
+              <point x="52.0" y="375.0" />
+              <point x="-52.0" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.swing.TransferHandler.HasGetTransferHandler">
+              <point x="57.200000000000045" y="-25.0" />
+              <point x="750.45" y="480.0" />
+              <point x="1230.68" y="480.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.accessibility.Accessible">
+              <point x="-28.600000000000023" y="-25.0" />
+              <point x="664.65" y="470.0" />
+              <point x="573.6800000000001" y="470.0" />
+              <point x="42.25" y="25.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6671641791044776" x="138.0" y="340.0" />
+          <SelectedNodes>
+            <node>WindowApperance</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/SellersWindow">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>SellersWindow</OriginalElement>
+          <nodes>
+            <node x="1751.7623471557686" y="370.0">java.awt.Container.WakingRunnable</node>
+            <node x="1691.0123471557686" y="480.0">java.awt.Container.MouseEventTargetFilter</node>
+            <node x="462.0" y="250.0">java.awt.Component.DummyRequestFocusController</node>
+            <node x="2316.2623471557686" y="590.0">java.awt.event.ActionListener</node>
+            <node x="4656.412347155769" y="250.0">java.awt.Component.BaselineResizeBehavior</node>
+            <node x="3401.4123471557687" y="480.0">javax.swing.TransferHandler.HasGetTransferHandler</node>
+            <node x="1026.8456804891016" y="0.0">java.awt.image.ImageObserver</node>
+            <node x="1169.8452551834127" y="250.0">java.awt.Component.FlipBufferStrategy</node>
+            <node x="4848.162347155769" y="480.0">java.awt.Window.Type</node>
+            <node x="217.0" y="250.0">java.awt.Component.BltBufferStrategy</node>
+            <node x="2623.0123471557686" y="250.0">java.awt.Component.AccessibleAWTComponent</node>
+            <node x="1064.3452551834132" y="370.0">java.awt.Component.FlipSubRegionBufferStrategy</node>
+            <node x="821.0" y="250.0">java.awt.Component.ProxyCapabilities</node>
+            <node x="1992.7623471557686" y="370.0">java.awt.Container.AccessibleAWTContainer</node>
+            <node x="1483.595255183413" y="250.0">java.awt.Component.SingleBufferStrategy</node>
+            <node x="1825.7239832535888" y="250.0">java.awt.Container</node>
+            <node x="1298.7623471557686" y="480.0">java.awt.Container.DropTargetEventTargetFilter</node>
+            <node x="3703.6662413609783" y="590.0">javax.swing.JFrame</node>
+            <node x="532.595255183413" y="370.0">java.awt.Component.BltSubRegionBufferStrategy</node>
+            <node x="3697.4123471557687" y="480.0">java.awt.Window.WindowDisposerRecord</node>
+            <node x="4542.412347155769" y="480.0">java.awt.Frame</node>
+            <node x="4311.182316586922" y="370.0">java.awt.Window</node>
+            <node x="4401.807316586922" y="0.0">java.awt.MenuContainer</node>
+            <node x="3992.4123471557687" y="480.0">javax.swing.RootPaneContainer</node>
+            <node x="4387.912347155769" y="590.0">java.awt.Frame.AccessibleAWTFrame</node>
+            <node x="4102.728741360978" y="250.0">javax.accessibility.Accessible</node>
+            <node x="1986.2623471557686" y="590.0">java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler</node>
+            <node x="1102.512347155768" y="110.0">java.awt.Component</node>
+            <node x="1507.7623471557686" y="370.0">java.awt.Container.EventTargetFilter</node>
+            <node x="3021.0412413609783" y="690.0">SellersWindow</node>
+            <node x="4681.432316586922" y="0.0">java.io.Serializable</node>
+            <node x="2871.2623471557686" y="590.0">java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler</node>
+            <node x="0.0" y="250.0">java.awt.Component.AWTTreeLock</node>
+            <node x="2343.1373471557686" y="480.0">java.util.EventListener</node>
+            <node x="4253.412347155769" y="480.0">java.awt.Window.AccessibleAWTWindow</node>
+            <node x="2536.2623471557686" y="590.0">java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler</node>
+            <node x="3153.4123471557687" y="480.0">javax.swing.WindowConstants</node>
+            <node x="4127.291241360978" y="690.0">javax.swing.JFrame.AccessibleJFrame</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="javax.swing.JFrame.AccessibleJFrame" target="java.awt.Frame.AccessibleAWTFrame">
+              <point x="56.5" y="-25.0" />
+              <point x="4296.791241360978" y="665.0" />
+              <point x="4516.912347155769" y="665.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.image.ImageObserver">
+              <point x="-59.666666666666515" y="-25.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.WakingRunnable" target="java.awt.Container">
+              <point x="0.0" y="-25.0" />
+              <point x="1861.7623471557686" y="350.0" />
+              <point x="1894.0573165869223" y="350.0" />
+              <point x="-13.666666666666515" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler" target="java.awt.Container.AccessibleAWTContainer">
+              <point x="-77.5" y="-25.0" />
+              <point x="-71.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.Window">
+              <point x="-34.5" y="-25.0" />
+              <point x="4576.912347155769" y="450.0" />
+              <point x="4404.307316586922" y="450.0" />
+              <point x="18.625" y="25.0" />
+            </edge>
+            <edge source="java.awt.Frame" target="java.awt.MenuContainer">
+              <point x="34.5" y="-25.0" />
+              <point x="4645.912347155769" y="70.0" />
+              <point x="4557.807316586922" y="70.0" />
+              <point x="52.0" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.accessibility.Accessible">
+              <point x="0.0" y="-25.0" />
+              <point x="3775.1662413609783" y="550.0" />
+              <point x="3686.9123471557687" y="550.0" />
+              <point x="3686.9123471557687" y="350.0" />
+              <point x="4144.978741360978" y="350.0" />
+              <point x="-42.25" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.FlipSubRegionBufferStrategy" target="java.awt.Component.FlipBufferStrategy">
+              <point x="78.99999999999955" y="-25.0" />
+              <point x="1301.3452551834127" y="350.0" />
+              <point x="1285.3452551834127" y="350.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window" target="javax.accessibility.Accessible">
+              <point x="37.25" y="-25.0" />
+              <point x="4422.932316586922" y="320.0" />
+              <point x="4229.478741360978" y="320.0" />
+              <point x="42.25" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.ProxyCapabilities" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="932.0" y="210.0" />
+              <point x="1159.4668926103136" y="210.0" />
+              <point x="-32.545454545454504" y="25.0" />
+            </edge>
+            <edge source="SellersWindow" target="javax.swing.JFrame">
+              <point x="50.5" y="-25.0" />
+              <point x="3172.5412413609783" y="665.0" />
+              <point x="3739.4162413609783" y="665.0" />
+              <point x="-35.75" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window.AccessibleAWTWindow" target="java.awt.Container.AccessibleAWTContainer">
+              <point x="-67.25" y="-25.0" />
+              <point x="4320.662347155769" y="450.0" />
+              <point x="2205.7623471557686" y="450.0" />
+              <point x="71.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window.Type" target="java.io.Serializable">
+              <point x="31.25" y="-25.0" />
+              <point x="4941.912347155769" y="80.0" />
+              <point x="4836.307316586922" y="80.0" />
+              <point x="66.375" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.BltSubRegionBufferStrategy" target="java.awt.Component">
+              <point x="77.5" y="-25.0" />
+              <point x="765.095255183413" y="350.0" />
+              <point x="1053.5000000000002" y="350.0" />
+              <point x="1053.5000000000002" y="220.0" />
+              <point x="1175.7396198830406" y="220.0" />
+              <point x="-16.27272727272748" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.io.Serializable">
+              <point x="59.666666666666515" y="-25.0" />
+              <point x="1251.6790138224346" y="80.0" />
+              <point x="4703.557316586922" y="80.0" />
+              <point x="-66.375" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window.WindowDisposerRecord" target="java.awt.Window">
+              <point x="0.0" y="-25.0" />
+              <point x="3834.9123471557687" y="460.0" />
+              <point x="4329.807316586922" y="460.0" />
+              <point x="-55.875" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.DropTargetEventTargetFilter" target="java.awt.Container.EventTargetFilter">
+              <point x="79.0" y="-25.0" />
+              <point x="1535.7623471557686" y="460.0" />
+              <point x="1563.7623471557686" y="460.0" />
+              <point x="-56.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler" target="java.awt.Component.AccessibleAWTComponent">
+              <point x="78.75" y="-25.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="SellersWindow" target="java.awt.event.ActionListener">
+              <point x="-50.5" y="-25.0" />
+              <point x="3071.5412413609783" y="665.0" />
+              <point x="2416.2623471557686" y="665.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTFocusHandler" target="java.util.EventListener">
+              <point x="-78.75" y="-25.0" />
+              <point x="2615.0123471557686" y="570.0" />
+              <point x="2465.0123471557686" y="570.0" />
+              <point x="24.375" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer" target="java.awt.Component.AccessibleAWTComponent">
+              <point x="71.0" y="-25.0" />
+              <point x="2205.7623471557686" y="350.0" />
+              <point x="2672.845680489102" y="350.0" />
+              <point x="-99.66666666666674" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.BltBufferStrategy" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="329.5" y="190.0" />
+              <point x="1126.921438064859" y="190.0" />
+              <point x="-65.09090909090901" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AWTTreeLock" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="98.5" y="180.0" />
+              <point x="1110.6487107921316" y="180.0" />
+              <point x="-81.36363636363649" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent" target="java.awt.Component">
+              <point x="-74.75" y="-25.0" />
+              <point x="2697.7623471557686" y="200.0" />
+              <point x="1257.1032562466771" y="200.0" />
+              <point x="65.09090909090901" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer" target="java.awt.Container">
+              <point x="-71.0" y="-25.0" />
+              <point x="2063.7623471557686" y="340.0" />
+              <point x="1948.7239832535888" y="340.0" />
+              <point x="41.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.BaselineResizeBehavior" target="java.awt.Component">
+              <point x="-68.75" y="-25.0" />
+              <point x="4725.162347155769" y="190.0" />
+              <point x="1273.3759835194046" y="190.0" />
+              <point x="81.36363636363649" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.MouseEventTargetFilter" target="java.awt.Container">
+              <point x="69.0" y="-25.0" />
+              <point x="1898.0123471557686" y="460.0" />
+              <point x="1982.2623471557686" y="460.0" />
+              <point x="1982.2623471557686" y="350.0" />
+              <point x="1921.3906499202553" y="350.0" />
+              <point x="13.666666666666515" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.AccessibleAWTContainer.AccessibleContainerHandler" target="java.util.EventListener">
+              <point x="77.5" y="-25.0" />
+              <point x="2218.7623471557686" y="570.0" />
+              <point x="2367.5123471557686" y="570.0" />
+              <point x="-73.125" y="25.0" />
+            </edge>
+            <edge source="java.awt.Frame.AccessibleAWTFrame" target="java.awt.Frame">
+              <point x="64.5" y="-25.0" />
+              <point x="4581.412347155769" y="570.0" />
+              <point x="4645.912347155769" y="570.0" />
+              <point x="34.5" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent" target="java.io.Serializable">
+              <point x="74.75" y="-25.0" />
+              <point x="2847.2623471557686" y="90.0" />
+              <point x="4747.807316586922" y="90.0" />
+              <point x="-22.125" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.EventTargetFilter" target="java.awt.Container">
+              <point x="0.0" y="-25.0" />
+              <point x="1619.7623471557686" y="340.0" />
+              <point x="1866.7239832535888" y="340.0" />
+              <point x="-41.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler" target="java.util.EventListener">
+              <point x="-90.5" y="-25.0" />
+              <point x="2961.7623471557686" y="560.0" />
+              <point x="2513.7623471557686" y="560.0" />
+              <point x="73.125" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.swing.RootPaneContainer">
+              <point x="28.600000000000023" y="-25.0" />
+              <point x="3803.7662413609783" y="550.0" />
+              <point x="4112.912347155769" y="550.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.MouseEventTargetFilter" target="java.awt.Container.EventTargetFilter">
+              <point x="-69.0" y="-25.0" />
+              <point x="1760.0123471557686" y="460.0" />
+              <point x="1675.7623471557686" y="460.0" />
+              <point x="56.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.AccessibleAWTComponent.AccessibleAWTComponentHandler" target="java.awt.Component.AccessibleAWTComponent">
+              <point x="90.5" y="-25.0" />
+              <point x="3142.7623471557686" y="350.0" />
+              <point x="2872.179013822435" y="350.0" />
+              <point x="99.66666666666652" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.DummyRequestFocusController" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="631.5" y="200.0" />
+              <point x="1143.1941653375861" y="200.0" />
+              <point x="-48.81818181818198" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window.AccessibleAWTWindow" target="java.awt.Window">
+              <point x="67.25" y="-25.0" />
+              <point x="4455.162347155769" y="460.0" />
+              <point x="4367.057316586922" y="460.0" />
+              <point x="-18.625" y="25.0" />
+            </edge>
+            <edge source="java.awt.Frame.AccessibleAWTFrame" target="java.awt.Window.AccessibleAWTWindow">
+              <point x="-64.5" y="-25.0" />
+              <point x="4452.412347155769" y="550.0" />
+              <point x="4387.912347155769" y="550.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window" target="java.awt.Container">
+              <point x="-37.25" y="-25.0" />
+              <point x="4348.432316586922" y="330.0" />
+              <point x="1976.0573165869223" y="330.0" />
+              <point x="68.33333333333348" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component" target="java.awt.MenuContainer">
+              <point x="0.0" y="-25.0" />
+              <point x="1192.012347155768" y="70.0" />
+              <point x="4453.807316586922" y="70.0" />
+              <point x="-52.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.SingleBufferStrategy" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="1609.595255183413" y="220.0" />
+              <point x="1224.5578017012226" y="220.0" />
+              <point x="32.545454545454504" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="java.awt.Frame">
+              <point x="57.200000000000045" y="-25.0" />
+              <point x="3832.366241360978" y="560.0" />
+              <point x="4576.912347155769" y="560.0" />
+              <point x="-34.5" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.swing.WindowConstants">
+              <point x="-57.200000000000045" y="-25.0" />
+              <point x="3717.966241360978" y="570.0" />
+              <point x="3267.4123471557687" y="570.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.FlipBufferStrategy" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="1285.3452551834127" y="230.0" />
+              <point x="1208.2850744284956" y="230.0" />
+              <point x="16.27272727272748" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container.DropTargetEventTargetFilter" target="java.awt.Container">
+              <point x="-79.0" y="-25.0" />
+              <point x="1377.7623471557686" y="460.0" />
+              <point x="1423.5123471557686" y="460.0" />
+              <point x="1423.5123471557686" y="330.0" />
+              <point x="1839.3906499202553" y="330.0" />
+              <point x="-68.33333333333348" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame.AccessibleJFrame" target="javax.swing.JFrame">
+              <point x="-56.5" y="-25.0" />
+              <point x="4183.791241360978" y="665.0" />
+              <point x="3810.9162413609783" y="665.0" />
+              <point x="35.75" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.BaselineResizeBehavior" target="java.io.Serializable">
+              <point x="68.75" y="-25.0" />
+              <point x="4862.662347155769" y="90.0" />
+              <point x="4792.057316586922" y="90.0" />
+              <point x="22.125" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.BltSubRegionBufferStrategy" target="java.awt.Component.BltBufferStrategy">
+              <point x="-77.5" y="-25.0" />
+              <point x="610.095255183413" y="350.0" />
+              <point x="329.5" y="350.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.event.ActionListener" target="java.util.EventListener">
+              <point x="0.0" y="-25.0" />
+              <point x="-24.375" y="25.0" />
+            </edge>
+            <edge source="java.awt.Window.Type" target="java.awt.Window">
+              <point x="-31.25" y="-25.0" />
+              <point x="4879.412347155769" y="440.0" />
+              <point x="4441.557316586922" y="440.0" />
+              <point x="55.875" y="25.0" />
+            </edge>
+            <edge source="java.awt.Container" target="java.awt.Component">
+              <point x="0.0" y="-25.0" />
+              <point x="1907.7239832535888" y="210.0" />
+              <point x="1240.83052897395" y="210.0" />
+              <point x="48.81818181818198" y="25.0" />
+            </edge>
+            <edge source="javax.swing.JFrame" target="javax.swing.TransferHandler.HasGetTransferHandler">
+              <point x="-28.600000000000023" y="-25.0" />
+              <point x="3746.566241360978" y="560.0" />
+              <point x="3538.9123471557687" y="560.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+            <edge source="java.awt.Component.FlipSubRegionBufferStrategy" target="java.awt.Component">
+              <point x="-79.00000000000045" y="-25.0" />
+              <point x="1143.3452551834127" y="350.0" />
+              <point x="1159.3452551834127" y="350.0" />
+              <point x="1159.3452551834127" y="230.0" />
+              <point x="1192.012347155768" y="230.0" />
+              <point x="0.0" y="25.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6573529411764706" x="90.0" y="355.0" />
+          <SelectedNodes>
+            <node>SellersWindow</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/BazaDanych">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>BazaDanych</OriginalElement>
+          <nodes>
+            <node x="" y="">Database</node>
+            <node x="" y="">BazaDanych</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="92.0" y="368.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DataChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductsGoodData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="95" column="5" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UML/BazaDanych.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>BazaDanych</OriginalElement>
+          <nodes>
+            <node x="" y="">Database</node>
+            <node x="" y="">BazaDanych</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="92.0" y="368.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UML/DiagramKlas.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataCheckingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProductsDataCheckingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProductsGoodDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WindowApperanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BazaDanychTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/BazaDanych.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProductsDataChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Faktura</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
